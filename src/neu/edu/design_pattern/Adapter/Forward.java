@@ -1,4 +1,4 @@
-package Adapter;
+package neu.edu.design_pattern.Adapter;
 
 class Forward extends Player {
 

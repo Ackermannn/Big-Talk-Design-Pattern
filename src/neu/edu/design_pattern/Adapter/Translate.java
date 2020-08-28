@@ -1,4 +1,4 @@
-package Adapter;
+package neu.edu.design_pattern.Adapter;
 
 /**
  * 适配器--翻译类

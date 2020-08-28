@@ -1,4 +1,4 @@
-package Adapter;
+package neu.edu.design_pattern.Adapter;
 /*
   大话数据结构--17章 适配器模式
   <p>

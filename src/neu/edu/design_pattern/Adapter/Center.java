@@ -1,4 +1,4 @@
-package Adapter;
+package neu.edu.design_pattern.Adapter;
 
 class Center extends Player {
     Center(String name) {
