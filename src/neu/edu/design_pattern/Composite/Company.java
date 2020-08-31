@@ -1,4 +1,4 @@
-package neu.edu.design_pattern.composite;
+package neu.edu.design_pattern.Composite;
 
 /**
  * 公司类 抽象类或接口

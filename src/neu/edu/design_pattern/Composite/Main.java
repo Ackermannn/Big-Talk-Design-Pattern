@@ -1,4 +1,4 @@
-package neu.edu.design_pattern.composite;
+package neu.edu.design_pattern.Composite;
 
 /**
  * 组合模式

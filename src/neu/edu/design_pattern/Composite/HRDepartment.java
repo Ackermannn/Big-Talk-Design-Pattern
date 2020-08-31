@@ -1,7 +1,7 @@
-package neu.edu.design_pattern.composite;
+package neu.edu.design_pattern.Composite;
 
-public class FianceDepartment extends Company{
-    public FianceDepartment(String name) {
+public class HRDepartment extends Company {
+    public HRDepartment(String name) {
         super(name);
     }
 
@@ -25,6 +25,6 @@ public class FianceDepartment extends Company{
 
     @Override
     public void lineOfDuty() {
-        System.out.printf(" %s 公司财务收支管理\n", name);
+        System.out.printf(" %s 员工培训管理\n", name);
     }
 }
